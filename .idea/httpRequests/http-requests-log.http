@@ -1,0 +1,127 @@
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T100227.200.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T100210.200.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{  "name": "karthick",  "password": "sastrad" }
+
+<> 2018-01-05T100203.401.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{  "name": "karthick",  "password": "sastrad" }
+
+<> 2018-01-05T100129.401.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{  "name": "karthick1",  "password": "sastra" }
+
+<> 2018-01-05T100120.401.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T100045.200.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+"body":{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T100033.400.html
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+
+"body":{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T095955.401.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+
+body{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T095929.401.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+
+{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T095811.401.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+
+{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T095737.401.json
+
+###
+
+POST http://localhost:3000/api/login
+Accept: */*
+Cache-Control: no-cache
+
+{  "name": "karthick",  "password": "sastra" }
+
+<> 2018-01-05T095718.401.json
+
+###
+

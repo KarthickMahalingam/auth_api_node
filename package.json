@@ -1,0 +1,25 @@
+{
+  "name": "network-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "~4.15.5",
+    "express-route-log": "0.0.2",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^5.0.0-rc2",
+    "mongoose-timestamp": "^0.6.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^3.0.1",
+    "body-parser":"^1.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^4.0.35",
+    "nodemon": "^1.14.7",
+    "pryjs": "^1.0.3",
+    "morgan": "^1.9.0"
+  }
+}
